@@ -43,7 +43,15 @@ Mouseover Action Settings: To fade out UI elements for the minimal look
 https://www.curseforge.com/wow/addons/mouseover-action-settings-automtic-ui-fader
 
 
+**instalation**
 
+Download all needed addons listed above. And if you want all recomended addons.
+
+WA List:
+
+Player unit frame: https://wago.io/4d10HI9pR
+
+Target unit frame: https://wago.io/0MAUtyrPi
 
 
 
