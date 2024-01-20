@@ -4,7 +4,7 @@ local oUF = ns.oUF
 local UnitSpecific = {
 	player = function(self)
 		self:SetHeight(50)
-		self:SetWidth(300)
+		self:SetWidth(500)
 	end,
 	focus = function(self)
 		self:SetHeight(60)
