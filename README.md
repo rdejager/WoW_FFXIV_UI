@@ -55,6 +55,8 @@ Player unit frame: https://wago.io/4d10HI9pR
 
 Target unit frame: https://wago.io/0MAUtyrPi
 
+ToT unit frame: https://wago.io/i_5RthCIN
+
 
 
 Blizz UI Import string:
