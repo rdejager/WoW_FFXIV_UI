@@ -1,7 +1,7 @@
 # WoW_FFXIV_UI
 FFXIV inspired UI for WoW retail mostly, With WeakAura's
 
-This is my UI pack for WoW. I only play retail so I know it works there.
+This is my UI pack for WoW. I only play retail so I know it works there. My resolution is 1080P
 
 **Needed addons:**
 
@@ -34,6 +34,9 @@ https://www.curseforge.com/wow/addons/framecolor-weakauras-skin
 
 LS: Glass: Minimal looking chat window
 https://www.curseforge.com/wow/addons/ls-glass
+
+
+
 
 Mouseover Action Settings: To fade out UI elements for the minimal look
 https://www.curseforge.com/wow/addons/mouseover-action-settings-automtic-ui-fader
