@@ -3,7 +3,7 @@ FFXIV inspired UI for WoW retail mostly, With WeakAura's
 
 This is my UI pack for WoW. I only play retail so I know it works there.
 
-Needed addons
+**Needed addons:**
 
 Masque: For skinnin the buttons
 https://www.curseforge.com/wow/addons/masque
@@ -20,7 +20,9 @@ https://www.curseforge.com/wow/addons/plater-nameplates
 WeakAuras: Kinda obvious, the backbone of the entire UI
 https://www.curseforge.com/wow/addons/weakauras-2
 
-Optimal addons:
+
+**Optimal addons:**
+
 Leatrix Plus: To disable some in game sounds. If needed. And other usefull stuff
 https://www.curseforge.com/wow/addons/leatrix-plus
 
