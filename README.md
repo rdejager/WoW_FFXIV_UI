@@ -7,7 +7,7 @@ FFXIV inspired UI for WoW retail mostly, With WeakAura's
 
 This is my UI pack for WoW. I only play retail so I know it works there. My resolution is 1080P
 
-**Needed addons:**
+**Needed addons to download:**
 
 Masque: For skinnin the buttons
 https://www.curseforge.com/wow/addons/masque
@@ -25,7 +25,7 @@ WeakAuras: Kinda obvious, the backbone of the entire UI
 https://www.curseforge.com/wow/addons/weakauras-2
 
 
-**Optimal addons:**
+**Optimal addons to download:**
 
 Leatrix Plus: To disable some in game sounds. If needed. And other usefull stuff
 https://www.curseforge.com/wow/addons/leatrix-plus
@@ -39,10 +39,10 @@ https://www.curseforge.com/wow/addons/framecolor-weakauras-skin
 LS: Glass: Minimal looking chat window
 https://www.curseforge.com/wow/addons/ls-glass
 
-
-
-
 Mouseover Action Settings: To fade out UI elements for the minimal look
 https://www.curseforge.com/wow/addons/mouseover-action-settings-automtic-ui-fader
+
+
+
 
 
