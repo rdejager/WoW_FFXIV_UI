@@ -47,7 +47,9 @@ https://www.curseforge.com/wow/addons/mouseover-action-settings-automtic-ui-fade
 
 Download all needed addons listed above. And if you want all recomended addons.
 
-Above this page press the **green code** button, then **download zip**
+Download the latest Zip from the releases page.
+
+Changelog:
 
 **WA List:**
 
