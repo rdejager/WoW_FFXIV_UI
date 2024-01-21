@@ -58,11 +58,13 @@ Target unit frame: https://wago.io/0MAUtyrPi
 ToT unit frame: https://wago.io/i_5RthCIN
 
 
-Rest in progress!!
-
-
-
 Blizz UI Import string: https://github.com/rdejager/WoW_FFXIV_UI/blob/main/BlizzUI%20Import.md
+
+Rest in progress!! oUF_KarUI will have some elements disabled till the full UI elements are complete. 
+
+For now only player and target are working. Rest will folow. And oUF_KarUI will change with that. See below for a download of only the LUA edit.
+
+If you already installed the addon but only want the updated oUF_KarUI LUA edit. See below
 
 oUF_karUI LUA edit:
 
