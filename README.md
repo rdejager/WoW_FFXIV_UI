@@ -60,22 +60,26 @@ ToT unit frame: https://wago.io/i_5RthCIN
 
 Blizz UI Import string: https://github.com/rdejager/WoW_FFXIV_UI/blob/main/BlizzUI%20Import.md
 
-Rest in progress!! oUF_KarUI will have some elements disabled till the full UI elements are complete. 
-
-For now only player and target are working. Rest will folow. And oUF_KarUI will change with that. See below for a download of only the LUA edit.
-
-If you already installed the addon but only want the updated oUF_KarUI LUA edit. See below
-
-oUF_karUI LUA edit:
-
-Rightclick, save as. Then copy over the original
-: https://github.com/rdejager/WoW_FFXIV_UI/blob/main/Interface/AddOns/oUF_KarUI/ouf_karui.lua
-
 
 After all the addons are downloaded and the wa's & blizz UI imported. Extract the downloaded zip from Github. Keep the folder layout and replace the oUF_karUI Lua file when asked. If done correctly when you restart the game you should see the target of target arrow, and the full frames are selectable. 
 
 To move the unit frames you do /kmf  This opens the moveUI of oUF_karUI. The WA's are linked to that. Once you moved a frame you can change the position more precise in the interface options, then addons, oUF_KarUI.
 If you change the Scale the unit frames will change in size. I keep them at 1.0
+
+
+**Rest in progress!!**
+
+**oUF_KarUI INFO!!**
+
+oUF_KarUI will have some elements disabled till the full UI elements are complete. 
+
+For now only player and target are working. Rest will follow. And oUF_KarUI will change with that.
+If you already installed the UI but only want the updated oUF_KarUI LUA edit. See below
+
+Rightclick, save as. Then copy over the original in the Interface/Addons/oUF_KarUI folder
+https://github.com/rdejager/WoW_FFXIV_UI/blob/main/Interface/AddOns/oUF_KarUI/ouf_karui.lua
+
+
 
 
 
