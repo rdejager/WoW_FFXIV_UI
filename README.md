@@ -75,7 +75,10 @@ Blizz UI Import string: https://github.com/rdejager/WoW_FFXIV_UI/blob/main/Blizz
 After all the addons are downloaded and the wa's & blizz UI imported. Extract the downloaded zip from Github. Keep the folder layout and replace the oUF_karUI Lua file when asked. If done correctly when you restart the game you should see the target of target arrow, and the full frames are selectable. 
 
 To move the unit frames you do /kmf  This opens the moveUI of oUF_karUI. The WA's are linked to that. Once you moved a frame you can change the position more precise in the interface options, then addons, oUF_KarUI.
-If you change the Scale the unit frames will change in size. I keep them at 1.0
+If you change the Scale the unit frames will change in size. I keep them at 1.0 
+
+![image](https://github.com/rdejager/WoW_FFXIV_UI/assets/3759420/c377a60f-a081-45d6-a148-a49e3d8fb434)
+
 
 **Skin buttons:** open /masque here you can change the blizzard Action Bars & WeakAuras to FFXIV. Disable backdrop and enable gloss. Rest is personal prefference.
 
