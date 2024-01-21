@@ -107,6 +107,8 @@ Ridge: Player unit frames and Buff WA's
 
 Whiiskeyz: WA's 
 
+All addon creators whos addon im using
+
 If i forgot someone poke me! And Ill add them!
 
 
