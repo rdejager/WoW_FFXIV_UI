@@ -47,9 +47,9 @@ https://www.curseforge.com/wow/addons/mouseover-action-settings-automtic-ui-fade
 
 Download all needed addons listed above. And if you want all recomended addons.
 
-Above this page press the green code button, then download zip
+Above this page press the **green code** button, then **download zip**
 
-WA List:
+**WA List:**
 
 Player unit frame: https://wago.io/4d10HI9pR
 
@@ -58,16 +58,30 @@ Target unit frame: https://wago.io/0MAUtyrPi
 ToT unit frame: https://wago.io/i_5RthCIN
 
 
-
-Blizz UI Import string:
-
-1 39 0 0 0 4 4 UIParent 0.0 -341.5 -1 ##$$%/&('()$+$,$ 0 1 0 4 4 UIParent 0.0 -399.7 -1 ##$$%/&('((#,$ 0 2 0 4 4 UIParent 0.0 -456.8 -1 ##$$%/&('((#,$ 0 3 0 3 3 UIParent 1302.0 -456.8 -1 ##$%%/&%'%(#,$ 0 4 0 4 4 UIParent 482.3 60.0 -1 #$$$%/&%'%(#,$ 0 5 1 1 4 UIParent 0.0 0.0 -1 ##$$%/&('%(#,$ 0 6 1 1 4 UIParent 0.0 -50.0 -1 ##$$%/&('%(#,$ 0 7 1 1 4 UIParent 0.0 -100.0 -1 ##$$%/&('%(#,$ 0 10 0 3 3 UIParent 682.0 -504.0 -1 ##$$&('% 0 11 0 3 3 UIParent 922.0 -507.0 -1 ##$$&('%,# 0 12 1 7 7 UIParent 0.0 45.0 -1 ##$$&('% 1 -1 0 2 8 PlayerFrame -24.0 11.0 -1 ##$$%# 2 -1 1 2 2 UIParent 0.0 0.0 -1 ##$#%( 3 0 0 1 1 UIParent -260.0 -726.0 -1 $$3# 3 1 0 1 1 UIParent 258.0 -724.0 -1 %#3# 3 2 0 1 1 UIParent 266.5 -628.0 -1 %#&#3# 3 3 0 0 0 UIParent 655.0 -682.0 -1 '$(#)$-S.#/#1$3# 3 4 0 0 0 UIParent 22.0 -502.0 -1 ,%-#.)/#0#1#2( 3 5 0 2 2 UIParent -400.0 -269.0 -1 &#*$3# 3 6 1 5 5 UIParent 0.0 0.0 -1 -#.#/#4& 3 7 1 4 4 UIParent 0.0 0.0 -1 3# 4 -1 0 4 4 UIParent 0.0 279.0 -1 # 5 -1 0 5 5 UIParent -1202.0 -248.0 -1 # 6 0 1 2 2 UIParent -255.0 -10.0 -1 ##$#%#&.(()( 6 1 1 2 2 UIParent -270.0 -155.0 -1 ##$#%#'+(()( 7 -1 0 1 1 UIParent -20.0 -82.0 -1 # 8 -1 0 6 6 UIParent 4.0 34.0 -1 #'$a%%&J 9 -1 0 1 1 UIParent -338.0 -862.0 -1 # 10 -1 1 0 0 UIParent 16.0 -116.0 -1 # 11 -1 0 4 4 UIParent 540.0 -320.0 -1 # 12 -1 0 2 8 MinimapCluster 0.0 -4.0 -1 #K$# 13 -1 0 1 1 UIParent -0.0 -2.0 -1 ##$#%)&- 14 -1 0 8 6 MicroMenuContainer -4.0 0.0 -1 ##$#%( 15 0 0 4 4 UIParent -20.0 460.0 -1 # 15 1 1 7 7 StatusTrackingBarManager 0.0 17.0 -1 # 16 -1 0 1 1 UIParent 349.0 -862.0 -1 #( 17 -1 1 1 1 UIParent 0.0 -100.0 -1 ## 18 -1 1 5 5 UIParent 0.0 0.0 -1 #- 19 -1 1 7 7 UIParent 0.0 0.0 -1 ##
+Blizz UI Import string: https://github.com/rdejager/WoW_FFXIV_UI/blob/main/BlizzUI%20Import.md
 
 
-After all the addons are downloaded and the wa's imported. Extract the downloaded zip from Github. Keep the folder layout and replace the oUF_karUI Lua file when asked. If done correctly when you restart the game you should see the target of target arrow. 
+After all the addons are downloaded and the wa's & blizz UI imported. Extract the downloaded zip from Github. Keep the folder layout and replace the oUF_karUI Lua file when asked. If done correctly when you restart the game you should see the target of target arrow, and the full frames are selectable. 
 
 To move the unit frames you do /kmf  This opens the moveUI of oUF_karUI. The WA's are linked to that. Once you moved a frame you can change the position more precise in the interface options, then addons, oUF_KarUI.
 If you change the Scale the unit frames will change in size. I keep them at 1.0
+
+**Skin buttons:** open /masque here you can change the blizzard Action Bars & WeakAuras to FFXIV. Disable backdrop and enable gloss. Rest is personal prefference.
+
+
+**Rest in progress!!**
+
+**oUF_KarUI INFO!!**
+
+oUF_KarUI will have some elements disabled till the full UI elements are complete. 
+
+For now only player and target are working. Rest will follow. And oUF_KarUI will change with that.
+If you already installed the UI but only want the updated oUF_KarUI LUA edit. See below
+
+Rightclick, save as. Then copy over the original in the Interface/Addons/oUF_KarUI folder
+https://github.com/rdejager/WoW_FFXIV_UI/blob/main/Interface/AddOns/oUF_KarUI/ouf_karui.lua
+
+
 
 
 
