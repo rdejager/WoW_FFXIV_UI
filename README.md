@@ -62,7 +62,7 @@ Rest in progress!!
 
 
 
-Blizz UI Import string:
+Blizz UI Import string: https://github.com/rdejager/WoW_FFXIV_UI/blob/main/BlizzUI%20Import.md
 
 
 After all the addons are downloaded and the wa's & blizz UI imported. Extract the downloaded zip from Github. Keep the folder layout and replace the oUF_karUI Lua file when asked. If done correctly when you restart the game you should see the target of target arrow, and the full frames are selectable. 
