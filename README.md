@@ -47,9 +47,9 @@ https://www.curseforge.com/wow/addons/mouseover-action-settings-automtic-ui-fade
 
 Download all needed addons listed above. And if you want all recomended addons.
 
-Above this page press the green code button, then download zip
+Above this page press the **green code** button, then **download zip**
 
-WA List:
+**WA List:**
 
 Player unit frame: https://wago.io/4d10HI9pR
 
@@ -65,6 +65,8 @@ After all the addons are downloaded and the wa's & blizz UI imported. Extract th
 
 To move the unit frames you do /kmf  This opens the moveUI of oUF_karUI. The WA's are linked to that. Once you moved a frame you can change the position more precise in the interface options, then addons, oUF_KarUI.
 If you change the Scale the unit frames will change in size. I keep them at 1.0
+
+**Skin buttons:** open /masque here you can change the blizzard Action Bars & WeakAuras to FFXIV. Disable backdrop and enable gloss. Rest is personal prefference.
 
 
 **Rest in progress!!**
