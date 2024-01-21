@@ -64,6 +64,11 @@ Rest in progress!!
 
 Blizz UI Import string: https://github.com/rdejager/WoW_FFXIV_UI/blob/main/BlizzUI%20Import.md
 
+oUF_karUI LUA edit:
+
+Rightclick, save as. Then copy over the original
+: https://github.com/rdejager/WoW_FFXIV_UI/blob/main/Interface/AddOns/oUF_KarUI/ouf_karui.lua
+
 
 After all the addons are downloaded and the wa's & blizz UI imported. Extract the downloaded zip from Github. Keep the folder layout and replace the oUF_karUI Lua file when asked. If done correctly when you restart the game you should see the target of target arrow, and the full frames are selectable. 
 
