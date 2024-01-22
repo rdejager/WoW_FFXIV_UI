@@ -15,10 +15,10 @@ https://www.curseforge.com/wow/addons/masque
 Masque Blizzard Bars: To allow skinning the blizz actionbars
 https://www.curseforge.com/wow/addons/masque-blizz-bars-revived
 
-oUF_KarUI: invisible unit frames to make WA's clickable (made LUA eddit to make it fit this UI, see below)
+oUF_KarUI: invisible unit frames to make WA's clickable & moveable (made LUA eddit to make it work with this UI, see below)
 https://www.curseforge.com/wow/addons/ouf_karui
 
-Plater Nameplates: To replace nameplates
+Plater Nameplates: To replace nameplates (still in progress)
 https://www.curseforge.com/wow/addons/plater-nameplates
 
 WeakAuras: Kinda obvious, the backbone of the entire UI
@@ -47,7 +47,9 @@ https://www.curseforge.com/wow/addons/mouseover-action-settings-automtic-ui-fade
 
 Download all needed addons listed above. And if you want all recomended addons.
 
-Above this page press the **green code** button, then **download zip**
+Download the latest Zip from the releases page.
+
+Changelog:
 
 **WA List:**
 
@@ -57,6 +59,15 @@ Target unit frame: https://wago.io/0MAUtyrPi
 
 ToT unit frame: https://wago.io/i_5RthCIN
 
+**Optional WA's:**
+
+FF Questcomplete splash screen: https://wago.io/6jVdlDTqs
+
+FF QuestAccept: https://wago.io/X1xzcUaEH
+
+FF Sounds: https://wago.io/mhLvuvLFH
+
+
 
 Blizz UI Import string: https://github.com/rdejager/WoW_FFXIV_UI/blob/main/BlizzUI%20Import.md
 
@@ -64,9 +75,14 @@ Blizz UI Import string: https://github.com/rdejager/WoW_FFXIV_UI/blob/main/Blizz
 After all the addons are downloaded and the wa's & blizz UI imported. Extract the downloaded zip from Github. Keep the folder layout and replace the oUF_karUI Lua file when asked. If done correctly when you restart the game you should see the target of target arrow, and the full frames are selectable. 
 
 To move the unit frames you do /kmf  This opens the moveUI of oUF_karUI. The WA's are linked to that. Once you moved a frame you can change the position more precise in the interface options, then addons, oUF_KarUI.
-If you change the Scale the unit frames will change in size. I keep them at 1.0
+If you change the Scale the unit frames will change in size. I keep them at 1.0 
+
+![image](https://github.com/rdejager/WoW_FFXIV_UI/assets/3759420/c377a60f-a081-45d6-a148-a49e3d8fb434)
+
 
 **Skin buttons:** open /masque here you can change the blizzard Action Bars & WeakAuras to FFXIV. Disable backdrop and enable gloss. Rest is personal prefference.
+
+**Plater:** Still in progress
 
 
 **Rest in progress!!**
@@ -80,6 +96,21 @@ If you already installed the UI but only want the updated oUF_KarUI LUA edit. Se
 
 Rightclick, save as. Then copy over the original in the Interface/Addons/oUF_KarUI folder
 https://github.com/rdejager/WoW_FFXIV_UI/blob/main/Interface/AddOns/oUF_KarUI/ouf_karui.lua
+
+Current party frames are the 5 man raid frame layout just above the player unit frame.
+
+**Credits!!*
+
+MojiTheMonk: FF WA's and assets Sounds and graphics
+
+Ridge: Player unit frames and Buff WA's
+
+Whiiskeyz: WA's 
+
+All addon creators whos addon im using
+
+If i forgot someone poke me! And Ill add them!
+
 
 
 
