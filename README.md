@@ -84,8 +84,6 @@ After all the addons are downloaded and the wa's & blizz UI imported. Extract th
 To move the unit frames you do /kmf  This opens the moveUI of oUF_karUI. The WA's are linked to that. Once you moved a frame you can change the position more precise in the interface options, then addons, oUF_KarUI.
 If you change the Scale the unit frames will change in size. I keep them at 1.0 
 
-![image](https://github.com/rdejager/WoW_FFXIV_UI/assets/3759420/c377a60f-a081-45d6-a148-a49e3d8fb434)
-
 
 **Skin buttons:** open /masque here you can change the blizzard Action Bars & WeakAuras to FFXIV. Disable backdrop and enable gloss. Rest is personal prefference.
 
@@ -94,15 +92,10 @@ If you change the Scale the unit frames will change in size. I keep them at 1.0
 
 **oUF_KarUI INFO!!**
 
-oUF_KarUI will have some elements disabled till the full UI elements are complete. 
-
-For now only player and target are working. Rest will follow. And oUF_KarUI will change with that.
 If you already installed the UI but only want the updated oUF_KarUI LUA edit. See below
 
 Rightclick, save as. Then copy over the original in the Interface/Addons/oUF_KarUI folder
 https://github.com/rdejager/WoW_FFXIV_UI/blob/main/Interface/AddOns/oUF_KarUI/ouf_karui.lua
-
-Current party frames are the 5 man raid frame layout just above the player unit frame.
 
 **Credits!!*
 
