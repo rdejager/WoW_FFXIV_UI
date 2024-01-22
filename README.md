@@ -49,13 +49,18 @@ Download all needed addons listed above. And if you want all recomended addons.
 
 Download the latest Zip from the releases page.
 
-Changelog:
 
 **WA List:**
 
-Player unit frame: https://wago.io/4d10HI9pR
+Player Frame: https://wago.io/4d10HI9pR
 
-Target unit frame: https://wago.io/0MAUtyrPi
+Target Frame: https://wago.io/0MAUtyrPi
+
+Party Frames: https://wago.io/eUKOqOP1O
+
+Focus Frame: https://wago.io/Mg0LWm9oU
+
+Pet Frame: https://wago.io/whb2IvYzz
 
 Boss Frames: https://wago.io/cJb37eapN
 
@@ -86,8 +91,6 @@ If you change the Scale the unit frames will change in size. I keep them at 1.0
 
 **Plater:** Still in progress
 
-
-**Rest in progress!!**
 
 **oUF_KarUI INFO!!**
 
