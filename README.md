@@ -49,7 +49,6 @@ Download all needed addons listed above. And if you want all recomended addons.
 
 Download the latest Zip from the releases page.
 
-Changelog:
 
 **WA List:**
 
@@ -86,8 +85,6 @@ If you change the Scale the unit frames will change in size. I keep them at 1.0
 
 **Plater:** Still in progress
 
-
-**Rest in progress!!**
 
 **oUF_KarUI INFO!!**
 
