@@ -57,7 +57,7 @@ Player unit frame: https://wago.io/4d10HI9pR
 
 Target unit frame: https://wago.io/0MAUtyrPi
 
-ToT unit frame: https://wago.io/i_5RthCIN
+Boss Frames: https://wago.io/cJb37eapN
 
 **Optional WA's:**
 
@@ -66,6 +66,8 @@ FF Questcomplete splash screen: https://wago.io/6jVdlDTqs
 FF QuestAccept: https://wago.io/X1xzcUaEH
 
 FF Sounds: https://wago.io/mhLvuvLFH
+
+Player Buffs and Debuffs: https://wago.io/-dptQLoRh Pairs well with the player bars
 
 
 
