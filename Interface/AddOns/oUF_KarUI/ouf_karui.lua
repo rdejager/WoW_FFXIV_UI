@@ -6,14 +6,14 @@ local UnitSpecific = {
 		self:SetHeight(50)
 		self:SetWidth(500)
 	end,
---	focus = function(self)
---		self:SetHeight(60)
---		self:SetWidth(225)
---	end,
---	pet = function(self)
---		self:SetHeight(50)
---		self:SetWidth(145)
---	end,
+	focus = function(self)
+		self:SetHeight(50)
+		self:SetWidth(200)
+	end,
+	pet = function(self)
+		self:SetHeight(40)
+		self:SetWidth(145)
+	end,
 	target = function(self)
 		self:SetHeight(50)
 		self:SetWidth(600)
@@ -42,22 +42,22 @@ local UnitSpecific = {
 		self:SetHeight(60)
 		self:SetWidth(260)
 	end,
---	party1 = function(self)
---		self:SetHeight(70)
---		self:SetWidth(250)
---	end,
---	party2 = function(self)
---		self:SetHeight(70)
---		self:SetWidth(250)
---	end,
---	party3 = function(self)
---		self:SetHeight(70)
---		self:SetWidth(250)
---	end,
---	party4 = function(self)
---		self:SetHeight(70)
---		self:SetWidth(250)
---	end,
+	party1 = function(self)
+		self:SetHeight(60)
+		self:SetWidth(220)
+	end,
+	party2 = function(self)
+		self:SetHeight(60)
+		self:SetWidth(220)
+	end,
+	party3 = function(self)
+		self:SetHeight(60)
+		self:SetWidth(220)
+	end,
+	party4 = function(self)
+		self:SetHeight(60)
+		self:SetWidth(220)
+	end,
 }
 
 local function Shared(self, unit)
@@ -75,8 +75,8 @@ oUF:RegisterStyle('Karui', Shared)
 oUF:Factory(function(self)
 	self:SetActiveStyle('Karui')
 	self:Spawn('player'):SetPoint('CENTER', -398, -102)
---	self:Spawn('focus'):SetPoint('BOTTOMRIGHT', -254, 214)
---	self:Spawn('pet'):SetPoint('BOTTOMRIGHT', -478, 132)
+	self:Spawn('focus'):SetPoint('BOTTOMRIGHT', -254, 214)
+	self:Spawn('pet'):SetPoint('BOTTOMRIGHT', -478, 132)
 	self:Spawn('target'):SetPoint('CENTER', 399, -101)
 	self:Spawn('targettarget'):SetPoint('RIGHT', -468, -196)
 	self:Spawn('boss1'):SetPoint('CENTER', 700, 300)
@@ -84,8 +84,8 @@ oUF:Factory(function(self)
 	self:Spawn('boss3'):SetPoint('CENTER', 700, 180)
 	self:Spawn('boss4'):SetPoint('CENTER', 700, 120)
 	self:Spawn('boss5'):SetPoint('CENTER', 700, 60)
---	self:Spawn('party1'):SetPoint('CENTER', -850, 500)
---	self:Spawn('party2'):SetPoint('CENTER', -850, 400)
---	self:Spawn('party3'):SetPoint('CENTER', -850, 300)
---	self:Spawn('party4'):SetPoint('CENTER', -850, 200)
+	self:Spawn('party1'):SetPoint('CENTER', -850, 500)
+	self:Spawn('party2'):SetPoint('CENTER', -850, 400)
+	self:Spawn('party3'):SetPoint('CENTER', -850, 300)
+	self:Spawn('party4'):SetPoint('CENTER', -850, 200)
 end)
