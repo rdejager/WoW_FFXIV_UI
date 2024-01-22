@@ -1,7 +1,6 @@
 # WoW_FFXIV_UI
 
-****Work in progress****
-
+![Screen](https://github.com/rdejager/WoW_FFXIV_UI/assets/3759420/69f151c3-4752-4e7b-a866-b04071b6d6dd)
 
 FFXIV inspired UI for WoW retail mostly, With WeakAura's
 
