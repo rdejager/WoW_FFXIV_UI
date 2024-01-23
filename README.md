@@ -28,6 +28,8 @@ https://www.curseforge.com/wow/addons/weakauras-2
 
 **Optimal addons to download:**
 
+Edit Mode Expanded: https://www.curseforge.com/wow/addons/edit-mode-expanded To hide elements you dont want. And just expanded edit mode.
+
 Leatrix Plus: To disable some in game sounds. If needed. And other usefull stuff
 https://www.curseforge.com/wow/addons/leatrix-plus
 
