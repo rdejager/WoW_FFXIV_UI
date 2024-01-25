@@ -175,6 +175,10 @@ Folowing settings are under Units.
 
 ![image](https://github.com/rdejager/WoW_FFXIV_UI/assets/3759420/791bdf9a-4814-4f91-addf-133cb92fb223)
 
+**Party**
+
+In progress
+
 
 
 **Credits!!**
