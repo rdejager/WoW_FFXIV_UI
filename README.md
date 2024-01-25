@@ -4,6 +4,8 @@
 
 FFXIV inspired UI for WoW retail mostly, With WeakAura's
 
+**I am in the works for a classic version also. Changed the most importand WA's  Still need to get up a guide on how to setup the needed addons and settings.**
+
 This is my UI pack for WoW. I only play retail so I know it works there. My resolution is 1080P
 
 I Also included different fonts in the pack, for me its more readable.
