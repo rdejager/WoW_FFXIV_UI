@@ -109,6 +109,7 @@ Masque: For skinnin the buttons
 https://www.curseforge.com/wow/addons/masque
 
 PittBull4: For the hidden selectable unit frames. See below for a setupguide.
+https://www.curseforge.com/wow/addons/pitbull-unit-frames-4-0
 
 WeakAuras: Kinda obvious, the backbone of the entire UI
 https://www.curseforge.com/wow/addons/weakauras-2
