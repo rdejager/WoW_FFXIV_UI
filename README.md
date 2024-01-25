@@ -128,9 +128,9 @@ Download the latest Zip from the releases page.
 
 **WA List:**
 
-Player Frame: 
+Player Frame: https://wago.io/0sw_Y5fRH
 
-Target Frame: 
+Target Frame: https://wago.io/ES3H02k22
 
 Party Frames: 
 
@@ -147,6 +147,34 @@ FF QuestAccept: https://wago.io/X1xzcUaEH - To disable the blizz accept sound. Y
 FF Sounds: https://wago.io/mhLvuvLFH 
 
 Player Buffs and Debuffs: https://wago.io/-dptQLoRh Pairs well with the player bars
+
+**Setup Pitbull**
+
+/pb4 in chat
+
+Under modules change to below.
+
+![image](https://github.com/rdejager/WoW_FFXIV_UI/assets/3759420/3a7b9328-6632-4b20-a704-17a51d93d3d1)
+
+
+Folowing settings are under Units.
+
+**Player**
+
+![image](https://github.com/rdejager/WoW_FFXIV_UI/assets/3759420/104e1c30-5095-4af3-8d6d-844157776809)
+
+![image](https://github.com/rdejager/WoW_FFXIV_UI/assets/3759420/4ddd4fa2-167f-4354-930d-1573dd9a34b0)
+
+**Target**
+
+![image](https://github.com/rdejager/WoW_FFXIV_UI/assets/3759420/b07899c9-59be-4940-a411-a0c6eabed3bd)
+
+![image](https://github.com/rdejager/WoW_FFXIV_UI/assets/3759420/d553b8fe-53f5-468a-b5fa-1e78b886283e)
+
+**Target of target**
+
+![image](https://github.com/rdejager/WoW_FFXIV_UI/assets/3759420/791bdf9a-4814-4f91-addf-133cb92fb223)
+
 
 
 **Credits!!**
