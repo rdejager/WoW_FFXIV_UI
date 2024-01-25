@@ -6,9 +6,8 @@ FFXIV inspired UI for WoW retail mostly, With WeakAura's
 
 **I am in the works for a classic version also. Changed the most importand WA's  Still need to get up a guide on how to setup the needed addons and settings.**
 
-This is my UI pack for WoW. I only play retail so I know it works there. My resolution is 1080P
 
-I Also included different fonts in the pack, for me its more readable.
+**Retail**
 
 **Needed addons to download:**
 
@@ -102,7 +101,54 @@ If you already installed the UI but only want the updated oUF_KarUI LUA edit. Se
 Rightclick, save as. Then copy over the original in the Interface/Addons/oUF_KarUI folder
 https://github.com/rdejager/WoW_FFXIV_UI/blob/main/Interface/AddOns/oUF_KarUI/ouf_karui.lua
 
-**Credits!!*
+**Classic**
+
+**Needed addons to download:**
+
+Masque: For skinnin the buttons
+https://www.curseforge.com/wow/addons/masque
+
+PittBull4: For the hidden selectable unit frames. See below for a setupguide.
+
+WeakAuras: Kinda obvious, the backbone of the entire UI
+https://www.curseforge.com/wow/addons/weakauras-2
+
+
+**Optimal addons to download:**
+
+Leatrix Plus: To disable some in game sounds. If needed. And other usefull stuff
+https://www.curseforge.com/wow/addons/leatrix-plus
+
+**instalation**
+
+Download all needed addons listed above. And if you want all recomended addons.
+
+Download the latest Zip from the releases page.
+
+**WA List:**
+
+Player Frame: 
+
+Target Frame: 
+
+Party Frames: 
+
+Focus Frame:
+
+Pet Frame: 
+
+**Optional WA's:**
+
+FF Questcomplete splash screen: https://wago.io/6jVdlDTqs - To disable the blizz Quest complete sound. You need LeatrixPlus do /leaplus then under System check Mute custom sounds, Gear Icon and add 567439 and press Mute
+
+FF QuestAccept: https://wago.io/X1xzcUaEH - To disable the blizz accept sound. You need LeatrixPlus do /leaplus then under System check Mute custom sounds, Gear Icon and add 567400 and press Mute
+
+FF Sounds: https://wago.io/mhLvuvLFH 
+
+Player Buffs and Debuffs: https://wago.io/-dptQLoRh Pairs well with the player bars
+
+
+**Credits!!**
 
 MojiTheMonk: FF WA's and assets Sounds and graphics
 
