@@ -141,12 +141,6 @@ Pet Frame:
 
 **Optional WA's:**
 
-FF Questcomplete splash screen: https://wago.io/6jVdlDTqs - To disable the blizz Quest complete sound. You need LeatrixPlus do /leaplus then under System check Mute custom sounds, Gear Icon and add 567439 and press Mute
-
-FF QuestAccept: https://wago.io/X1xzcUaEH - To disable the blizz accept sound. You need LeatrixPlus do /leaplus then under System check Mute custom sounds, Gear Icon and add 567400 and press Mute
-
-FF Sounds: https://wago.io/mhLvuvLFH 
-
 Player Buffs and Debuffs: https://wago.io/-dptQLoRh Pairs well with the player bars
 
 **Setup Pitbull**
