@@ -2,7 +2,7 @@
 
 ![Screen](https://github.com/rdejager/WoW_FFXIV_UI/assets/3759420/69f151c3-4752-4e7b-a866-b04071b6d6dd)
 
-FFXIV inspired UI for WoW retail mostly, With WeakAura's
+FFXIV inspired UI for WoW retail & Classic, Based on Weakaura's
 
 **I am in the works for a classic version also. Changed the most importand WA's  Still need to get up a guide on how to setup the needed addons and settings.**
 
