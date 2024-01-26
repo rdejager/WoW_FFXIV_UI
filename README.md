@@ -111,6 +111,9 @@ https://www.curseforge.com/wow/addons/masque
 PittBull4: For the hidden selectable unit frames. See below for a setupguide.
 https://www.curseforge.com/wow/addons/pitbull-unit-frames-4-0
 
+Bartender4: For the custom actionbars.
+https://www.curseforge.com/wow/addons/bartender4
+
 WeakAuras: Kinda obvious, the backbone of the entire UI
 https://www.curseforge.com/wow/addons/weakauras-2
 
@@ -133,8 +136,6 @@ Player Frame: https://wago.io/0sw_Y5fRH
 Target Frame: https://wago.io/ES3H02k22
 
 Party Frames: 
-
-Focus Frame:
 
 Pet Frame: 
 
